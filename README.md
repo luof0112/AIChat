@@ -1,3 +1,6 @@
+#智普AI模型 
+express.env文件替换为AI模型密钥
+
 # chatVue
 
 This template should help get you started developing with Vue 3 in Vite.
